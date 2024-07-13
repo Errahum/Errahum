@@ -2,7 +2,7 @@
 
 **`Project creator and developer`**
 
-I study, work on machine learning and create applications.
+I study machine learning and create applications.
 
 #
 ### 🧠 My knowledges
@@ -38,6 +38,10 @@ I study, work on machine learning and create applications.
 #
 ### 📧 Let's talk
 
+Linkedin: https://www.linkedin.com/in/jeremysau/
+
 Mail: mail@sariteos.com
+
+Youtube: https://www.youtube.com/@Sariteos
 
 buymeacoffee: https://buymeacoffee.com/sahurows
