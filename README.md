@@ -27,13 +27,15 @@ I study machine learning and create applications.
 #
 ### 💼 Showcased Projects
 
-`GitFollowBot` |
-:-------------------------:|
-<a href="https://github.com/Sahurows/GitFollowBot"><img src="https://i.imgur.com/4qOsG3m.gif" width="250"></a> |
-
-`Fine-Tuning Project with OpenAI` | `SQLite data creator` | `Batailles de Timealot`
+`Fine-Tuning Project with OpenAI` | `SQLite data creator` | `GitFollowBot`
 :-------------------------:|:-------------------------:|:-------------------------:
-<a href="https://github.com/Sahurows/HeliosTuner-OpenAI-fine-tuning"><img src="https://i.imgur.com/0pZYOxT.gif" width="250"></a> | <a href="https://github.com/Sahurows/SQLite-data-creator"><img src="https://i.imgur.com/MW8XNH0.png" width="200"></a> | <a href="https://github.com/Sahurows/Battles-Of-Timealot"><img src="https://i.imgur.com/2qNkuMo.gif" width="325"></a>
+<a href="https://github.com/Sariteos/HeliosTuner-OpenAI-fine-tuning"><img src="https://i.imgur.com/0pZYOxT.gif" width="250"></a> | <a href="https://github.com/Sariteos/SQLite-data-creator"><img src="https://i.imgur.com/MW8XNH0.png" width="200"></a> | <a href="https://github.com/Sariteos/GitFollowBot"><img src="https://i.imgur.com/4qOsG3m.gif" width="250"></a>
+
+### 🎮 Featured Games
+
+`Batailles de Timealot` | `TimeJoe`
+:-------------------------:|:-------------------------:
+<a href="https://github.com/Sariteos/Battles-Of-Timealot"><img src="https://i.imgur.com/2qNkuMo.gif" width="325"></a> | <a href="https://github.com/Sariteos/TimeJoe"><img src="https://img.youtube.com/vi/XYuxz1wV32g/0.jpg" width="325"></a> 
 
 #
 ### 📧 Let's talk
