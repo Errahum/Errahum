@@ -42,6 +42,6 @@ I study machine learning and create applications.
 
 Linkedin: https://www.linkedin.com/in/jeremysau/
 
-Mail: mail@sariteos.com
+Mail: mail@herahum.com
 
 Youtube: https://www.youtube.com/@Errahum
