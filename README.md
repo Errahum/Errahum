@@ -2,7 +2,9 @@
 
 **`Project creator and developer`**
 
-I study machine learning and create applications.
+Studying machine learning and create applications.
+
+I work as a freelancer, please contact me if you are interested. mail@herahum.com
 
 #
 ### 🧠 My knowledges
