@@ -4,7 +4,7 @@
 
 Studying machine learning and create applications.
 
-I work as a freelancer, please contact me if you are interested. mail@herahum.com
+I work as a freelancer, please contact me if you are interested. mail@erahum.com
 
 #
 ### 🧠 My knowledges
@@ -44,6 +44,6 @@ I work as a freelancer, please contact me if you are interested. mail@herahum.co
 
 Linkedin: https://www.linkedin.com/in/jeremysau/
 
-Mail: mail@herahum.com
+Mail: mail@erahum.com
 
 Youtube: https://www.youtube.com/@Errahum
