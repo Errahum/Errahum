@@ -42,7 +42,7 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
 #
 ### 📧 Let's talk
 
-Linkedin: https://www.linkedin.com/in/jeremysau/
+Linkedin: https://www.linkedin.com/in/erahum/
 
 Mail: mail@erahum.com
 
