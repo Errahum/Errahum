@@ -31,7 +31,7 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
 
 `HeliosChart Candlestick Chart For Traders` |
 :-------------------------:|
-<a href="https://github.com/Errahum/Available-soon"><img src="https://github.com/Errahum/HeliosChart/blob/main/helioschart.gif" width="300"></a> |
+<a href="https://github.com/Errahum/Available-soon"><img src="https://raw.githubusercontent.com/Errahum/Available-soon/main/helioschart.gif" width="300"></a> |
 
 `Fine-Tuning Project with OpenAI` | `SQLite data creator` | `GitFollowBot`
 :-------------------------:|:-------------------------:|:-------------------------:
