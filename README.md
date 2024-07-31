@@ -29,9 +29,9 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
 #
 ### 💼 Showcased Projects
 
-`Candlestick Chart For Traders Available-soon` |
-:-------------------------:|
-<a href="https://github.com/Errahum/Available-soon"><img src="https://raw.githubusercontent.com/Errahum/Available-soon/main/helioschart.gif" width="300"></a> |
+`Helios-Journal` | `Candlestick Chart For Traders Available-soon` |
+:-------------------------:|:-------------------------:|
+<a href="https://github.com/Errahum/Helios-Journal"><img src="https://i.imgur.com/HUZNMoS.png" width="250"></a> | <a href="https://github.com/Errahum/Available-soon"><img src="https://raw.githubusercontent.com/Errahum/Available-soon/main/helioschart.gif" width="300"></a> |
 
 `Fine-Tuning Project with OpenAI` | `SQLite data creator` | `GitFollowBot`
 :-------------------------:|:-------------------------:|:-------------------------:
