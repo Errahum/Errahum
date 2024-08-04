@@ -2,7 +2,7 @@
 
 **`Project creator and developer`**
 
-Studying machine learning and create applications.
+Studying Financial Engineering and create applications.
 
 I work as a freelancer, please contact me if you are interested. mail@erahum.com
 
