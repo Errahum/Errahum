@@ -2,7 +2,9 @@
 
 **`Project creator and developer`**
 
-Studying Financial Engineering and create applications.
+Studying Financial Engineering, machine learning and create applications.
+
+Passionate about project creation, I want to help you by making tools that will save you time in your work.
 
 I work as a freelancer, please contact me if you are interested. mail@erahum.com
 
