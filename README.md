@@ -29,15 +29,19 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
 <br><br><br>
 
 #
-### 💼 Showcased Projects
+### 💼 Finance Projects
 
-`Helios-Journal` | `Candlestick Chart For Traders` |
+`Helios financial engineering` | `Helios Chart` |
 :-------------------------:|:-------------------------:|
-<a href="https://github.com/Errahum/Helios-Journal"><img src="https://i.imgur.com/HUZNMoS.png" width="250"></a> | <a href="https://github.com/Errahum/HeliosChart"><img src="https://github.com/Errahum/HeliosChart/blob/main/helioschart.gif" width="300"></a> |
+<a href="https://github.com/Errahum/Helios_financial_engineering"><img src="https://i.imgur.com/tZ9HAvt.png" width="250"></a> | <a href="https://github.com/Errahum/HeliosChart"><img src="https://github.com/Errahum/HeliosChart/blob/main/helioschart.gif" width="300"></a> |
 
-`Fine-Tuning Project with OpenAI` | `SQLite data creator` | `GitFollowBot`
-:-------------------------:|:-------------------------:|:-------------------------:
+### 🔨 Showcased Tools
+
+`HeliosTuner OpenAI fine-tuning` | `SQLite data creator/viewer` | `GitFollowBot` |
+:-------------------------:|:-------------------------:|:-------------------------: |
 <a href="https://github.com/Errahum/HeliosTuner-OpenAI-fine-tuning"><img src="https://i.imgur.com/0pZYOxT.gif" width="250"></a> | <a href="https://github.com/Errahum/SQLite-data-creator"><img src="https://i.imgur.com/MW8XNH0.png" width="200"></a> | <a href="https://github.com/Errahum/GitFollowBot"><img src="https://i.imgur.com/4qOsG3m.gif" width="250"></a>
+`Helios Journal` |
+<a href="https://github.com/Errahum/Helios-Journal"><img src="https://i.imgur.com/HUZNMoS.png" width="250"></a> |
 
 ### 🎮 Featured Games
 
