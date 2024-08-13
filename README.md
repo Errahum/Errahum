@@ -33,7 +33,7 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
 
 `Helios financial engineering` | `Helios Chart` |
 :-------------------------:|:-------------------------:|
-<a href="https://github.com/Errahum/Helios_financial_engineering"><img src="https://i.imgur.com/tZ9HAvt.png" width="250"></a> | <a href="https://github.com/Errahum/HeliosChart"><img src="https://github.com/Errahum/HeliosChart/blob/main/helioschart.gif" width="300"></a> |
+<a href="https://github.com/Errahum/Helios_financial_engineering"><img src="https://github.com/Errahum/HeliosFinance/blob/4ac54cdf9a00db22f5dfbcd812ee3063243c8596/assets/Helios-Github.svg" width="400"></a> | <a href="https://github.com/Errahum/HeliosChart"><img src="https://github.com/Errahum/HeliosChart/blob/main/helioschart.gif" width="350"></a> |
 
 ### 🔨 Showcased Tools
 
