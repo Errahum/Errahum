@@ -1,4 +1,4 @@
-# 🤖 Errahum
+# 🌌 Errahum
 
 **`Project creator and developer`**
 
