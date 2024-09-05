@@ -13,9 +13,9 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
 <details>
 <summary>Errahum Github Stats</summary>
 <p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Errahum&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true" alt="Errahum's github stats" /></a> 
+    <a href="https://github.com/Errahum"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Errahum&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true" alt="Errahum's github stats" /></a> 
     <br>
-    <img align="center" width="468px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errahum&layout=compact&theme=blue_navy&hide_border=true" /></a>
+    <a href="https://github.com/Errahum"><img align="center" width="468px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errahum&layout=compact&theme=blue_navy&hide_border=true" /></a>
 </p>
 </details> <br/>
 
