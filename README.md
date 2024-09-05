@@ -8,6 +8,17 @@ Passionate about project creation, I want to help you by making tools that will 
 
 I work as a freelancer, please contact me if you are interested. mail@erahum.com
 
+<br>
+
+<details>
+<summary>Errahum Github Stats</summary>
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Errahum&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true" alt="Errahum's github stats" /></a> 
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="468px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errahum&layout=compact&theme=blue_navy&hide_border=true" /></a>
+</p>
+</details> <br/>
+
 #
 ### 🧠 My knowledges
 
