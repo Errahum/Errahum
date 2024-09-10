@@ -22,22 +22,25 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
 #
 ### 🧠 My knowledges
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/python-auto.svg" />
-<img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" />
-<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/numpy-auto.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pandas-auto.svg" />
-<img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sqlite.svg" />
-<img align="left" alt="WP" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/wordpress.svg" />
-<img align="left" alt="UnrealEngine" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/unrealengine.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/unity-auto.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/blender-auto.svg" />
+<p align="left">
+  <img alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/python-auto.svg" />
+  <img alt="OpenAI" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" />
+  <img alt="Numpy" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/numpy-auto.svg" />
+  <img alt="Pandas" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pandas-auto.svg" />
+  <img alt="sqlite" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sqlite.svg" />
+  <img alt="WP" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/wordpress.svg" />
+  <img alt="UnrealEngine" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/unrealengine.svg" />
+  <img alt="Unity" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/unity-auto.svg" />
+  <img alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="Blender" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/blender-auto.svg" />
+</p>
+
 <br><br><br>
 
 #
