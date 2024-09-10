@@ -17,7 +17,7 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
     <br>
     <a href="https://github.com/Errahum"><img align="center" width="468px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errahum&layout=compact&theme=blue_navy&hide_border=true" /></a>
 </p>
-</details> <br/>
+</details>
 
 #
 ### 🧠 My knowledges
@@ -40,8 +40,6 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
   <img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="Blender" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/blender-auto.svg" />
 </p>
-
-<br><br><br>
 
 #
 ### 💼 Finance Projects
