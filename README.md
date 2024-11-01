@@ -17,7 +17,29 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
 </p>
 </details>
 
-#
+# 🌟 Unlock Enhanced AI Capabilities with Fineurai Premium
+
+[https://fineurai.com/](https://fineurai.com/)
+
+### Why Choose Fineurai Premium?
+
+#### **Create AI Models with Ease**
+Fineurai Premium offers a seamless way to create and customize AI models tailored to your needs. Whether you're looking to build or share models, our platform allows public access while preserving your conversation history for ongoing personalization and enriched interactions.
+
+[![FineurAI Logo](https://fineurai.com/static/media/image_feature_json.2f79af3f26e4243f316b.PNG)](https://fineurai.com)
+
+#### **Powerful, User-Friendly AI Creation Tools**
+Our platform empowers you with robust tools to fine-tune and optimize models effortlessly, enabling you to align performance with your goals. With Fineurai Premium, creating the perfect AI model has never been easier.
+
+---
+
+### Start Creating Your AI Model Today
+
+[![FineurAI Logo](https://fineurai.com/static/media/image_feature_completion.22f2a66f42edb303f960.PNG)](https://fineurai.com)
+
+[Create your new AI model!](https://fineurai.com/)
+
+---
 ### 🧠 My knowledges
 
 <p align="left">
