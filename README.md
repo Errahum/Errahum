@@ -48,7 +48,7 @@ I work as a freelancer, please contact me if you are interested. mail@erahum.com
 
 ### 🔨 Showcased Tools
 
-`HeliosTuner OpenAI fine-tuning` | `SQLite data creator/viewer` | `GitFollowBot` |
+`fineurai OpenAI fine-tuning` | `SQLite data creator/viewer` | `GitFollowBot` |
 :-------------------------:|:-------------------------:|:-------------------------: |
 <a href="https://github.com/Errahum/HeliosTuner-OpenAI-fine-tuning"><img src="https://i.imgur.com/0pZYOxT.gif" width="250"></a> | <a href="https://github.com/Errahum/SQLite-data-creator"><img src="https://i.imgur.com/MW8XNH0.png" width="200"></a> | <a href="https://github.com/Errahum/GitFollowBot"><img src="https://i.imgur.com/4qOsG3m.gif" width="250"></a>
 `Helios Journal` |
