@@ -72,7 +72,7 @@ Our platform empowers you with robust tools to fine-tune and optimize models eff
 
 `fineurai OpenAI fine-tuning` | `SQLite data creator/viewer` | `GitFollowBot` |
 :-------------------------:|:-------------------------:|:-------------------------: |
-<a href="https://github.com/Errahum/HeliosTuner-OpenAI-fine-tuning"><img src="https://i.imgur.com/0pZYOxT.gif" width="250"></a> | <a href="https://github.com/Errahum/SQLite-data-creator"><img src="https://i.imgur.com/MW8XNH0.png" width="200"></a> | <a href="https://github.com/Errahum/GitFollowBot"><img src="https://i.imgur.com/4qOsG3m.gif" width="250"></a>
+<a href="https://github.com/Errahum/fineurai"><img src="https://i.imgur.com/0pZYOxT.gif" width="250"></a> | <a href="https://github.com/Errahum/SQLite-data-creator"><img src="https://i.imgur.com/MW8XNH0.png" width="200"></a> | <a href="https://github.com/Errahum/GitFollowBot"><img src="https://i.imgur.com/4qOsG3m.gif" width="250"></a>
 `Helios Journal` |
 <a href="https://github.com/Errahum/Helios-Journal"><img src="https://i.imgur.com/HUZNMoS.png" width="250"></a> |
 
