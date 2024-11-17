@@ -35,7 +35,7 @@ Our platform empowers you with robust tools to fine-tune and optimize models eff
 
 ### Start Creating Your AI Model Today
 
-[![FineurAI Logo](https://fineurai.com/static/media/image_feature_completion.22f2a66f42edb303f960.PNG)](https://fineurai.com)
+[![FineurAI Logo](https://fineurai.com/static/media/logo.3f4ddb8b0a5fba571c8d5f2b8a12f957.svg)](https://fineurai.com)
 
 [Create your new AI model!](https://fineurai.com/)
 
