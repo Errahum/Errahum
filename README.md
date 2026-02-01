@@ -2,30 +2,10 @@
 
 **`Project creator and developer`**
 
-Passionate about project creation, I want to help you by making tools that will save you time in your work.
-
-I work as a freelancer, please contact me if you are interested. kimo3998@gmail.com
-
-<br>
-
-<details>
-<summary>Errahum Github Stats</summary>
-<p align="left">
-    <a href="https://github.com/Errahum"><img align="center" width="468px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errahum&layout=compact&theme=blue_navy&hide_border=true" /></a>
-</p>
-</details>
+Passionate about project creation.
+I work as a freelancer, please contact me if you are interested.
 
 ---
-
-### Start Creating Your AI Model Today
-
-[![FineurAI Logo](https://fineurai.com/static/media/logo.3f4ddb8b0a5fba571c8d5f2b8a12f957.svg)](https://fineurai.com)
-
-[Create your new AI model!](https://fineurai.com/)
-
----
-### 🧠 My knowledges
-
 <p align="left">
   <a href="https://github.com/Errahum"><img alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/python-auto.svg" /></a>
   <a href="https://github.com/Errahum"><img alt="OpenAI" width="40px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" /></a>
