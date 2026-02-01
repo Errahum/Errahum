@@ -50,7 +50,3 @@ I work as a freelancer, please contact me if you are interested.
 ### 📧 Let's talk
 
 Linkedin: https://www.linkedin.com/in/erahum/
-
-Mail: mail@erahum.com
-
-Youtube: https://www.youtube.com/@Errahum
